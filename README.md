@@ -18,7 +18,7 @@ Flowchart
                                |  Participant Completes Task  | ---> |  Reward Participant   |
                                +-------------------+      +----------------------+
 
-Contract Address: 0xf6831ED542f8573c8Ae8bE6343EBE6160333A3a5
+Contract Address: 0xc47c0803c13Cf94D3a0d8134757eDC2a56855756
 
 For any inquiries, suggestions, or collaboration requests, feel free to reach out:
 
