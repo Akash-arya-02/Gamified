@@ -26,4 +26,4 @@ Contact Details
 For any inquiries, suggestions, or collaboration requests, feel free to reach out:
 
 Name: Akash Gautam
-Email: "kew.akashgautam786@gmail.com"
+Email: kew.akashgautam786@gmail.com
