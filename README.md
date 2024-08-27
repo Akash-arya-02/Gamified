@@ -1,4 +1,4 @@
-Gamified Group Project
+Gamified Project
 
 A Solidity-based smart contract that brings a gamified approach to managing group projects. The system allows for task creation, assignment, and rewarding participants upon task completion.
 
