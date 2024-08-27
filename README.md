@@ -25,5 +25,5 @@ Contract Address: 0xc47c0803c13Cf94D3a0d8134757eDC2a56855756
 Contact Details
 For any inquiries, suggestions, or collaboration requests, feel free to reach out:
 
-Name: Akash Gautam
-Email: kew.akashgautam786@gmail.com
+- Name: Akash Gautam
+- Email: kew.akashgautam786@gmail.com
